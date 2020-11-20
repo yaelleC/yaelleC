@@ -1,4 +1,4 @@
-[![Header](https://github.com/yaelleC/yaelleC/blob/main/Pink%20&%20Blue%20Modern%20Creative%20Birthday%20Email%20Header.gif?raw=true "Header")](https://www.linkedin.com/in/yaellechaudy/)
+[![Header](https://github.com/yaelleC/yaelleC/blob/main/yaelle_chaudy.png?raw=true "Header")](https://www.linkedin.com/in/yaellechaudy/)
 
 # Hi all! 👋
 
