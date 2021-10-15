@@ -4,11 +4,13 @@
 
 Nice to meet you! I am Yaëlle, software engineer and researcher. After a PhD in Serious Games (building an [assessment engine and learning analytics tool for educators](https://www.researchgate.net/publication/305215768_An_Assessment_and_Learning_Analytics_Engine_for_Games-based_Learning)) and a postdoc in e-health (I worked on rules editors / authoring tools for clinicians to define rules for risk assessment and diagnostics to go alongside e-health apps) I have now joined the world of industry and work as a software engineer for [Skyscanner](https://www.skyscanner.net/). 
 
-I have a passion for data and experimentation. When my 3 daughters allow me some time off, I have personal projects mostly in the fields of education and parenting.
+I have a passion for data and experimentation. 
+
+I have personal projects mostly in the fields of photos, education & parenting.
 
 ## 🔭 I’m currently working on ...
 
-* A photodiary app to generate monthly/yearly journals of important pictures to share with grandparents and print for home (currently hosted on bitbucket, will move and update a link later on)
+* A photodiary app to generate monthly/yearly journals of important pictures to share with family and print for home (currently hosted on bitbucket, will move and update a link later on)
 * A reading app for parents to record books for their children (design stage, details to come later)
 
 ## 🌱 I’m currently learning ...
