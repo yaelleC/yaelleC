@@ -8,6 +8,8 @@ I have a passion for data and experimentation.
 
 I have personal projects mostly in the fields of photos, education & parenting.
 
+The repositories for my PhD and Postdoc work are hosted on: https://github.com/yaelleUWS 
+
 ## 🔭 I’m currently working on ...
 
 * A photodiary app to generate monthly/yearly journals of important pictures to share with family and print for home (currently hosted on bitbucket, will move and update a link later on)
@@ -23,9 +25,9 @@ I have personal projects mostly in the fields of photos, education & parenting.
 
 * Experimentation at scale
 * Monitoring / Alerting
-
 * Web development
 * TDD
+* Doing a PhD ;) 
 
 <!--
 **yaelleC/yaelleC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
