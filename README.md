@@ -10,6 +10,8 @@ I have personal projects mostly in the fields of photos, education & parenting.
 
 The repositories for my PhD and Postdoc work are hosted on: https://github.com/yaelleUWS 
 
+I also have some repos hosted on GitLab : https://gitlab.com/yaelleC/
+
 ## 🔭 I’m currently working on ...
 
 * A photodiary app to generate monthly/yearly journals of important pictures to share with family and print for home (currently hosted on bitbucket, will move and update a link later on)
