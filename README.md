@@ -2,7 +2,8 @@
 
 # Hi all! 👋
 
-Nice to meet you! I am Yaëlle, software engineer and researcher. After a PhD in Serious Games (building an [assessment engine and learning analytics tool for educators](https://www.researchgate.net/publication/305215768_An_Assessment_and_Learning_Analytics_Engine_for_Games-based_Learning)) and a postdoc in e-health (I worked on rules editors / authoring tools for clinicians to define rules for risk assessment and diagnostics to go alongside e-health apps) I have now joined the world of industry and work as a software engineer for [Skyscanner](https://www.skyscanner.net/). 
+Nice to meet you! I am Yaëlle, software engineer and researcher. After a PhD in Serious Games (building an [assessment engine and learning analytics tool for educators](https://www.researchgate.net/publication/305215768_An_Assessment_and_Learning_Analytics_Engine_for_Games-based_Learning)) and a postdoc in e-health (I worked on rules editors / authoring tools for clinicians to define rules for risk assessment and diagnostics to go alongside e-health apps) I have then joined the world of industry to work as a software engineer for [Skyscanner](https://www.skyscanner.net/). 
+After relocating to France, I am now working for [Grafana] (https://grafana.com/) 
 
 I have a passion for data and experimentation. 
 
